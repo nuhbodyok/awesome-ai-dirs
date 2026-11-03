@@ -27,6 +27,7 @@ Comprehensive directories for discovering AI tools and services.
 | [AI Trendz](https://aitrendz.xyz/) | AI trends and tools directory |
 | [AI Hunter](https://ai-hunter.io/) | AI tool hunting platform |
 | [Descene Digital AI Tools](https://descenedigital.com/aitoolsdirectory/) | Digital agency AI tools directory |
+| [MeetNewAI](https://meetnewai.com/) | Free bilingual AI tools, AI games, and MCP servers directory by job |
 | [What The AI](https://whattheai.tech/) | AI technology directory |
 | [AI Tools.sh](https://aitools.sh/) | Shell-themed AI tools directory |
 | [AITopTools Free](https://aitoptools.com/free-ai-tools/) | Top free AI tools collection |
